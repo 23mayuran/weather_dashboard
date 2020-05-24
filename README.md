@@ -26,3 +26,7 @@ Features:
         Style.css
             
     One Javascript Page 
+    
+ Images 
+Images 
+<img src= "Assets/Capture.PNG">  
