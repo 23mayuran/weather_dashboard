@@ -28,4 +28,5 @@ Features:
     One Javascript Page 
     
  Images 
-<img src= "Assets/screenshot.PNG">  
+ 
+<img src= "Assets/Capture.png">  
