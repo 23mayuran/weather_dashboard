@@ -76,6 +76,8 @@ $(".searchButton").click(function () {
 
         });
 
+        // testing
+
         $.ajax({
             url: fiveDay,
             method: "GET"
